@@ -1,0 +1,33 @@
+body {
+    background-color: cyan;
+}
+
+.texto-principal {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+h1 {
+    color: #696767;
+    text-align: center;
+}
+h2 {
+    color: #483D8B;
+}
+p {
+    color: black;
+
+}
+#imagem-principal {
+    width: 30%;
+    margin-left: 80%;
+    padding: 2%;
+    border: 5px dotted salmon;
+    float: left;
+    position: absolute;
+}
+
+.itens {
+	color:  #5F9EA0;
+	text-decoration: underline;
+}
